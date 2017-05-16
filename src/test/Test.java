@@ -18,10 +18,7 @@ public class Test {
         System.out.println("");
     }
     
-    private static void pierwszaFunkcja(){
-        System.out.println("pierwsza funkcja");
-    }
-    
+
     private static void grzeskaFunkcja(){
         System.out.println("merdzuj sie suko");
     }
