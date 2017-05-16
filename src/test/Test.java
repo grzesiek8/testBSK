@@ -22,4 +22,8 @@ public class Test {
     private static void grzeskaFunkcja(){
         System.out.println("merdzuj sie suko");
     }
+    
+    private static void bartkaFunkcja(){
+        System.out.println("merdżuj to");
+    }
 }
