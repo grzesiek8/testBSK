@@ -25,4 +25,8 @@ public class Test {
     private static void grzeskaFunkcja(){
         
     }
+    
+    private static void bartkaFunkcja(){
+        System.out.println("merdżuj to");
+    }
 }
