@@ -21,4 +21,8 @@ public class Test {
     private static void pierwszaFunkcja(){
         System.out.println("pierwsza funkcja");
     }
+    
+    private static void grzeskaFunkcja(){
+        
+    }
 }
